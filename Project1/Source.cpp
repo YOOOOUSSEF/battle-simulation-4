@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    cout << "klamak";
+    cout << "zero";
     return 0;
 }
